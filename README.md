@@ -12,9 +12,14 @@ Simple 2D game implemented, using the Adafruit 2.8" TFT Touchscreen Shield.
 
 ---
 
-Game tested using Arduino Uno and Adafruit 2.8" TFT Touch Shield for Arduino. 
-
-**Library**: [https://github.com/adafruit/Adafruit_ILI9341](https://github.com/adafruit/Adafruit_ILI9341 "Adafruit_ILI9341 on GitHub")
+Game tested using Arduino Uno and [Adafruit 2.8" TFT Touch Shield for Arduino](https://www.adafruit.com/product/1651). 
+##### Specs:
+* **Interface**: Serial Peripheral Interface (SPI)
+* **Data Range**: 0 to 4095
+* **Resolution**: 320 x 240
+##### Libraries:
+* **TFT Screen Library**: [https://github.com/adafruit/Adafruit_ILI9341](https://github.com/adafruit/Adafruit_ILI9341 "Adafruit_ILI9341 TFT Screen Library on GitHub")
+* **Touchscreen Library**: [https://github.com/adafruit/Adafruit_STMPE610](https://github.com/adafruit/Adafruit_STMPE610 "Adafruit_STMPE610 Touchscreen Library on GitHub")
 
 ---
 
