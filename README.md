@@ -1,5 +1,5 @@
 # LIT: Games Design and Development
-# Year 3: Embedded Systems CA
+## Year 3: Embedded Systems CA
 
 Embedded Systems Assignment. 
 
