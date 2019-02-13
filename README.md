@@ -1,7 +1,12 @@
-# LIT: Games Design and Development
-## Year 3: Embedded Systems CA
+# Embedded Systems
+## Joe O'Regan (K00203642)
+### Year 3 (2016/17), Semester 7
+#### BSc Computing (Games Design and Development)
+##### Limerick Institute of Technology
 
-Embedded Systems Assignment. 
+---
+
+## Embedded Systems Assignment. 
 
 Project working with Arduino shields, looking at how they communicate with the Arduino using SPI and I2C inteface.
 Simple 2D game implemented, using the Adafruit 2.8" TFT Touchscreen Shield. 
