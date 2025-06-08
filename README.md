@@ -1,6 +1,6 @@
 # Embedded Systems
 ## Joe O'Regan (K00203642)
-### Year 3 (2016/17), Semester 7
+### Year 3 (2016/17), Semester 5
 #### BSc Computing (Games Design and Development)
 ##### Limerick Institute of Technology
 
